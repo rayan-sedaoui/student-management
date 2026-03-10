@@ -43,7 +43,6 @@ https://github.com/user-attachments/assets/5b0ca130-8698-4628-8955-a4d5a8d4d12a
 <img width="617" height="440" alt="image" src="https://github.com/user-attachments/assets/5aabd4c4-af6b-4346-a625-6907668bf785" />
 <img width="656" height="340" alt="image" src="https://github.com/user-attachments/assets/a965651f-a21e-4b1b-8498-461e71ef3df9" />
 
-<img width="539" height="440" alt="image" src="https://github.com/user-attachments/assets/215dfe3b-5b8f-4249-9ce0-957afd6e58c6" /> 
 
  .Test Swagger :
  <img width="539" height="440" alt="image" src="https://github.com/user-attachments/assets/1adab96e-40f7-439d-af16-329dbc3c2834" />
